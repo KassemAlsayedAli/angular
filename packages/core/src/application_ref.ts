@@ -109,7 +109,7 @@ export function createPlatformFactory(
 }
 
 /**
- * Checks that there currently is a platform which contains the given token as a provider.
+ * Checks that there is currently a platform which contains the given token as a provider.
  *
  * @experimental APIs related to application bootstrap are currently under review.
  */
